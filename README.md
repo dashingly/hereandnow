@@ -1,2 +1,2 @@
 # alertsystem
-Cancun hackathon repository for the Team Hackbaneros
+repository for hereandnow app
